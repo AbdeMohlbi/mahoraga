@@ -13,7 +13,7 @@
 10. [Components](#components)
 11. [Language Choice](#language-choice)
 12. [Hybrid Scalability](#hybrid-scalability)
-13. [limits of Virtual_hybrid Scaling](#limits-of-virtual_hybrid-scaling-to-be-added-later)
+13. [limits of hybrid Scaling](#limits-of-hybrid-scaling)
 ## Introduction
 
 ### Basic overview of the Custom Load Balancer
@@ -258,4 +258,4 @@ In environments where performance, reliability, and cost-effectiveness are criti
 
 ---
 
-### limits of Virtual_hybrid Scaling 
+### limits of hybrid Scaling 
